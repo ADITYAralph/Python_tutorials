@@ -9,3 +9,4 @@ j = 1
 while(j<11):
     print(n," X ",j,"=",n*(j))
     j = j + 1
+    
